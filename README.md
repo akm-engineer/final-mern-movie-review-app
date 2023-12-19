@@ -4,7 +4,7 @@
 
 # 5 Star MRP
 
-## Demo  :- https://movie-mern-review-app.netlify.app/
+## Live  :- https://movie-mern-review-app.netlify.app/
 **Note this is a free deployment plan, email verification will not work so when you sign up use 123456 as your OTP also Admin panel will not be visible because for that we need to go to our DB and change the user role but if you want me to change anything ask me and I will update that from my admin panel because for now, I am the admin of this app.**
 
 
